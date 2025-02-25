@@ -216,30 +216,29 @@ Software Security and Vulnerabilities:
 
 
 
-
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Answer:
 1. Unit Testing
-  Definition: Unit testing refers to the process of evaluating individual code components or units to confirm their             expected functionality. This is generally performed early in the software development lifecycle.
+Definition: Unit testing refers to the process of evaluating individual code components or units to confirm their           expected functionality. This is generally performed early in the software development lifecycle.
 
-  Importance: Unit testing assists in identifying bugs early, which decreases debugging time and enhances overall code           quality. It ensures that each code unit operates correctly before being integrated with other parts.
+Importance: Unit testing assists in identifying bugs early, which decreases debugging time and enhances overall code        quality. It ensures that each code unit operates correctly before being integrated with other parts.
 
 3. Integration Testing
-  Definition: Integration testing assesses whether various modules or components function together smoothly. It examines      the interactions between these units and verifies that the combined system works as designed.
+Definition: Integration testing assesses whether various modules or components function together smoothly. It examines      the interactions between these units and verifies that the combined system works as designed.
 
-  Importance: Integration testing uncovers problems that may emerge when components are linked, ensuring that the             functionality of the overall system is upheld. It helps prevent integration-related issues from progressing to later        development phases.
+Importance: Integration testing uncovers problems that may emerge when components are linked, ensuring that the             functionality of the overall system is upheld. It helps prevent integration-related issues from progressing to later        development phases.
 
-3. System Testing
-  Definition: System testing reviews the complete software system from beginning to end to confirm that it satisfies all      functional requirements. This testing mimics real-world scenarios to assess the system's performance.  
-  Importance: System testing instills confidence that the software is prepared for deployment by ensuring that all            components operate cohesively. It guarantees that the system fulfills user expectations and is free from significant         defects.
+4. System Testing
+Definition: System testing reviews the complete software system from beginning to end to confirm that it satisfies all      functional requirements. This testing mimics real-world scenarios to assess the system's performance.  
+Importance: System testing instills confidence that the software is prepared for deployment by ensuring that all            components operate cohesively. It guarantees that the system fulfills user expectations and is free from significant        defects.
 
 Acceptance Testing
 Definition: Acceptance testing, often known as User Acceptance Testing (UAT), focuses on confirming that the software meets the defined business and user requirements. It usually includes end-users testing the system in practical scenarios.  
 Importance: Acceptance testing verifies that the software provides the anticipated value to users. It gathers user feedback, affirming that the system is functional and aligns with business goals before the final rollout.
 
 Importance in Software Quality Assurance
+
 These testing types are vital for maintaining software quality because they:  
 Identify Defects Early: Both unit and integration testing discover bugs early in the development process, which lowers costs and enhances overall quality.  
 Validate System Functionality: System testing ensures that the complete system functions as intended, while acceptance testing confirms that it fulfills user requirements.  
@@ -271,7 +270,6 @@ Optimizing User Experience: By formulating effective prompts, developers can enh
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Answer:
-
 
 Vague Prompt  
 "Devise a strategy for enhancing a company's digital footprint."  
